@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any PHP related projects**
 
-- 👨‍💻 All of my projects are available at [https://JIbraeelMehmood.github.io/projects](https://JIbraeelMehmood.github.io/projects)
+- 👨‍💻 All of my personal projects are available at [https://github.com/JIbraeelMehmood?tab=repositories](https://github.com/JIbraeelMehmood?tab=repositories)
 
 - 💬 Ask me about **php,bootstrap,jquery,laravel,wordpress,magento2,react,react-native,livewire**
 
